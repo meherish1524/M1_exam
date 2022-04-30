@@ -1,6 +1,6 @@
 public class GUI {
 
 	public static void main(String[] args) {
-	        JFrameWindow window = new JFrameWindow(1500, 500);
+	        JFrameWindow window = new JFrameWindow(00, 500);
 	}
 }
